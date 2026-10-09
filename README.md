@@ -55,6 +55,7 @@ The application follows a simple data collection and analysis workflow:
 ```text
 ProyectoSupermercado/
 ├── app.py
+├── requirements.txt
 ├── scraper_mercadona.py
 ├── scraper_carrefour.py
 ├── scraper_aldi.py
