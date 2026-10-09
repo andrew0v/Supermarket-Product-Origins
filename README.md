@@ -144,7 +144,7 @@ Potential development directions include:
 
 ## Academic Context
 
-This project was developed as part of the **Data Science and Artificial Intelligence degree (CDIA)** at the **Universidad Politécnica de Madrid (UPM)**, in connection with the ALN course, during the 2026 academic year.
+This project was developed as part of the **Data Science and Artificial Intelligence degree (CDIA)** at the **Universidad Politécnica de Madrid (UPM)**, in connection with the Numerical Algorithms course, during the 2026 academic year.
 
 **Authors:** Alejandro Sánchez and Andrew Villamar.
 
